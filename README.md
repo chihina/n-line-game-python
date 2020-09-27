@@ -6,7 +6,7 @@ Implement n line game (in Japanese: n 目並べ)
 This file is a python script.  
 Its consist of object-oriented programming.
 
-## Contact
+## Contacts
 If you can know about detail me, you can see my website.
 
 Qitta page: https://qiita.com/chi-na  
